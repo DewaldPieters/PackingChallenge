@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/GLPKSolverPack.jar"/>
+	<classpathentry kind="lib" path="lib/java-hamcrest-2.0.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/SCPSolver.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
